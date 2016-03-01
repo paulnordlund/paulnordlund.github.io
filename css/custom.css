@@ -1,14 +1,23 @@
-
-
 body {
 margin-top: 25px;
 background: dimgrey;
 }
 
-.shape a {
+.card a {
 	color: dimgrey;
 }
-.shape a:hover {
+.card a:hover {
 	color: steelblue;
 }
 
+#namemobile {
+	color: dimgrey;
+}
+
+#nametablet {
+	color: steelblue;
+}
+
+#namecomputer {
+	color: steelblue;
+}
